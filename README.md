@@ -8,3 +8,5 @@
 - 用户头像和插件 Logo 是临时占位素材，正式项目接入时会替换
 
 在线演示：https://liubailiu-1991.github.io/zero-ai-plugin-studio-demo/
+
+页面与状态中心：https://liubailiu-1991.github.io/zero-ai-plugin-studio-demo/demo
